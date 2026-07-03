@@ -1,0 +1,2 @@
+Best Model,ROC AUC,Accuracy,Features,Training Samples,Testing Samples
+XGBoost,0.8929,0.9028,21,16000,4000

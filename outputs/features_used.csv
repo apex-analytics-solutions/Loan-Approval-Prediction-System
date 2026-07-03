@@ -1,0 +1,22 @@
+Feature Name
+age
+gender
+marital_status
+education_level
+annual_income
+employment_status
+debt_to_income_ratio
+credit_score
+loan_purpose
+interest_rate
+loan_term
+installment
+grade_subgrade
+num_of_open_accounts
+total_credit_limit
+current_balance
+delinquency_history
+public_records
+num_of_delinquencies
+monthly_income_log
+loan_amount_log
