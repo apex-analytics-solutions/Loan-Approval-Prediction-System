@@ -51,7 +51,7 @@ This project was developed to demonstrate proficiency in end-to-end machine lear
 
 A live version of this application is deployed on Streamlit Cloud. You can interact with the full system without any local setup.
 
-**[➡️ Access the Live Demo Here](https://your-streamlit-app.streamlit.app)**
+**[➡️ Access the Live Demo Here](https://loan-approval-prediction-system-ai.streamlit.app/)**
 
 In the live demo, you can:
 -   **Submit a Loan Application**: Fill out the form with sample data to generate a real-time prediction.
@@ -65,7 +65,7 @@ In the live demo, you can:
 ## 🔗 Project Links
 
 - **GitHub Repository:** https://github.com/your-username/Loan-Prediction-ML-App
-- **Live Application:** https://your-streamlit-app.streamlit.app
+- **Live Application:** [➡️ Access the Live Demo Here](https://loan-approval-prediction-system-ai.streamlit.app/)
 
 ---
 
@@ -458,7 +458,7 @@ Streamlit Cloud will automatically install the dependencies from `requirements.t
 ## 🔗 Project Links
 
 - **GitHub Repository:** https://github.com/your-username/project-name
-- **Live Application:** https://your-streamlit-app.streamlit.app
+- **Live Application:**[ ➡️ Access the Live Demo Here](https://loan-approval-prediction-system-ai.streamlit.app/)
 
 ---
 
