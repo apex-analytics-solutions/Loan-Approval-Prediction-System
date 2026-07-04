@@ -64,7 +64,7 @@ In the live demo, you can:
 
 ## 🔗 Project Links
 
-- **GitHub Repository:** https://github.com/your-username/Loan-Prediction-ML-App
+- **GitHub Repository:** [➡️ Github Link Here](https://github.com/apex-analytics-solutions/Loan-Approval-Prediction-System)
 - **Live Application:** [➡️ Access the Live Demo Here](https://loan-approval-prediction-system-ai.streamlit.app/)
 
 ---
@@ -457,7 +457,7 @@ Streamlit Cloud will automatically install the dependencies from `requirements.t
 
 ## 🔗 Project Links
 
-- **GitHub Repository:** https://github.com/your-username/project-name
+- **GitHub Repository:** [ ➡️ Github Link Here](https://github.com/apex-analytics-solutions/Loan-Approval-Prediction-System)
 - **Live Application:**[ ➡️ Access the Live Demo Here](https://loan-approval-prediction-system-ai.streamlit.app/)
 
 ---
