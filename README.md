@@ -59,6 +59,9 @@ In the live demo, you can:
 -   **Generate a PDF Report**: Download a professional, multi-page PDF summary of the loan assessment.
 -   **Explore the Dashboard**: View the model comparison dashboard and interactive charts.
 -   **Switch Themes**: Toggle between dark and light mode to see the custom UI in action.
+## 🎥 Project Demo Video
+
+[![AI Loan System Demo](https://img.shields.io/badge/Watch-Demo%20Video-blue?style=for-the-badge)](https://github.com/apex-analytics-solutions/Loan-Approval-Prediction-System/releases/tag/v1.0.0)
 
 ---
 
